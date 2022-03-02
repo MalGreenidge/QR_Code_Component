@@ -1,0 +1,38 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+
+body {
+    background-color: rgb(217, 229, 241);
+    font-family: 'Outfit', sans-serif;
+}
+
+h1, .qr-code {
+    color: hsl(218, 44%, 22%)
+}
+
+#card {
+    width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    top: 250px;
+}
+
+#card p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+#card, .qr-code img {
+    border-radius: 20px;
+}
+
+
+.qr-code img {
+    width: 100%;
+}
+
+
