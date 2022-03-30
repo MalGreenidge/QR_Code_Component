@@ -65,12 +65,12 @@ To see how you can add code snippets, see below:
 In upcoming projects I want to focus more on positioning elements using Flexbox and CSS grid. This would be a more optimal approach.
 
 ### Useful resources
-- [FreecCodeCamo](https://www.freecodecamp.org/) 
+- [FreecCodeCamp](https://www.freecodecamp.org/) 
 - [CodeCademy](https://www.codecademy.com/learn)
 
 ## Author
 
-- Website - [Jamal Greennidge](https://github.com/MalGreenidge)
+- Website - [Jamal Greenidge](https://github.com/MalGreenidge)
 - Frontend Mentor - [@MalGreenidge](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@MalGreenidge](https://www.twitter.com/MalGreenidge)
 
